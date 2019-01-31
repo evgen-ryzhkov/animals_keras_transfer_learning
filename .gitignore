@@ -2,3 +2,6 @@
 /venv
 /__pycache_
 /logs
+/models
+/data/original
+/data/original_test
