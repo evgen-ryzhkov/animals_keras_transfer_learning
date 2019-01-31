@@ -1,0 +1,7 @@
+pip-tools
+tensorflow
+scikit-learn
+pandas
+matplotlib
+keras
+python-resize-image
